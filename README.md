@@ -1,3 +1,3 @@
 # Netflix Mobile UI
 <hr/>
-<img src="screenshots/preview.gif">
+<img width="400" src="screenshots/preview.gif">
